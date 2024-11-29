@@ -58,7 +58,7 @@ In the coming months, I plan to deepen my understanding of React by exploring mo
 
 ### Useful resources
 
-- [React Leaflet](https://www.example.com) - It was very helpful to integrate the map with REACT more easily.
+- [React Leaflet](https://react-leaflet.js.org/) - It was very helpful to integrate the map with REACT more easily.
 
 ## Author
 
